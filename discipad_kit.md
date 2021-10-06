@@ -1,4 +1,4 @@
-The Discipad - designed by [Coseyfannitutti](https://www.cftkb.com/) -  is, a very beginner friendly project that allows to create a useful and feature complete mechanical keypad.
+The Discipad - designed by [Coseyfannitutti](https://www.cftkb.com/) -  is a very beginner friendly project that allows to create a useful and feature complete mechanical keypad.
 The PCB features an eye-catching exposed array of components on the top, supports up to 17 individual keys and comes with VIA-Firmware preflashed on the microcontroller unit (MCU).
 
 ## Product features:
@@ -34,13 +34,13 @@ You optionally need:
 * [Dampening foam](https://keycapsss.com/keyboard-parts/dampening-foam/127/discipad-dampening-foam)
 
 ## Guides
-[Solder guide by Coseyfannitutti](https://static1.squarespace.com/static/5c533d33348cd92b886e544d/t/5d90e24fbd027f6ecf7cfb2a/1569776210721/DISCIPAD+BUILD+GUIDE.pdf)
-[Case assembling video guide](https://www.youtube.com/watch?v=HQoExdTddxo) *Note:* This is a different pad but the process is the same
-[VIA video guide by MechMerlin](https://www.youtube.com/watch?v=WZKf2TvUZ7Q)
+* [Solder guide by Coseyfannitutti](https://static1.squarespace.com/static/5c533d33348cd92b886e544d/t/5d90e24fbd027f6ecf7cfb2a/1569776210721/DISCIPAD+BUILD+GUIDE.pdf)
+* [Case assembling video guide](https://www.youtube.com/watch?v=HQoExdTddxo) *Note:* This is a different pad but the process is the same
+* [VIA video guide by MechMerlin](https://www.youtube.com/watch?v=WZKf2TvUZ7Q)
 
 ## Download Links
-[VIA Software](https://github.com/the-via/releases/releases/tag/v1.3.1) / Visit the [VIA Website](https://caniusevia.com/) for more information.
-[VIAL Software](https://get.vial.today/download/)
+* [VIA Software](https://github.com/the-via/releases/releases/tag/v1.3.1) / Visit the [VIA Website](https://caniusevia.com/) for more information.
+* [VIAL Software](https://get.vial.today/download/)
 
 Photos of the completed kit are for demonstration purposes only.
 Please note that this kit must be assembled (soldering) and does not include switches or keycaps.
