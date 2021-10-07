@@ -6,7 +6,7 @@ The PCB features an eye-catching exposed array of components on the top, support
 * Easy to solder through-hole parts
 * ATMEGA328P MCU
 * Gold plated pcb
-* Customizable Open Source Firmware (Supported: QMK, VIA, VIAL)
+* Customizable Open Source Firmware (Supported: [QMK](https://docs.qmk.fm), [VIA](https://caniusevia.com), [VIAL](https://get.vial.today))
 
 The MCU comes preflashed with VIA firmware which allows for full configuration without needing to programm.
 
@@ -14,7 +14,7 @@ The MCU comes preflashed with VIA firmware which allows for full configuration w
 * Mid and bottom pcb (black/gold)
 * Top plate to support 3Pin switches
 * 3mm clear acrylic guard plate
-* Solder parts with pre-flashed Atmega328P
+* Solder parts with pre-flashed Atmega328P (Bootloader & VIA Firmware)
 * Spacer and screws 
 * Self adhesive rubber feet
 
@@ -39,7 +39,7 @@ You optionally need:
 * [VIA video guide by MechMerlin](https://www.youtube.com/watch?v=WZKf2TvUZ7Q)
 
 ## Download Links
-* [VIA Software](https://github.com/the-via/releases/releases/tag/v1.3.1) / Visit the [VIA Website](https://caniusevia.com/) for more information.
+* [VIA Software](https://github.com/the-via/releases/releases/) / Visit the [VIA Website](https://caniusevia.com/) for more information.
 * [VIAL Software](https://get.vial.today/download/)
 
 Photos of the completed kit are for demonstration purposes only.
