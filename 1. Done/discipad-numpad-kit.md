@@ -1,3 +1,6 @@
+Shoplink: https://keycapsss.com/diy-kits/121/discipad-numpad-kit
+
+
 The Discipad - designed by [Coseyfannitutti](https://www.cftkb.com/) -  is a very beginner friendly project that allows to create a useful and feature complete mechanical keypad.
 The PCB features an eye-catching exposed array of components on the top, supports up to 17 individual keys and comes with VIA-Firmware preflashed on the microcontroller unit (MCU).
 
@@ -14,7 +17,7 @@ The MCU comes preflashed with VIA firmware which allows for full configuration w
 * Mid and bottom pcb (black/gold)
 * Top plate to support 3Pin switches
 * 3mm clear acrylic guard plate
-* Solder parts with pre-flashed Atmega328P
+* Solder parts with pre-flashed Atmega328P (Bootloader & VIA Firmware)
 * Spacer and screws 
 * Self adhesive rubber feet
 
