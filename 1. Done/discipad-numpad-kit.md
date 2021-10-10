@@ -21,7 +21,7 @@ The MCU comes preflashed with VIA firmware which allows for full configuration w
 * Spacer and screws 
 * Self adhesive rubber feet
 
-*Note:* The acryl guard is shipped with a blue protection film.
+*Note:* For transport the acryl guard plate has a bluish protection film applied, which should be removed before assembly.
 
 You need:
 * 17x switches (3 or 5 pin)

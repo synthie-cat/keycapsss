@@ -17,7 +17,7 @@ The Plaid is a fun project that will reward you with a great looking and working
 * Transparent acrylic guard plate
 * Brass spacers and screws
 
-*Note:* For transport the acryl guard plate has a bluish protection film applied, which should be removed before fixing it.
+*Note:* For transport the acryl guard plate has a bluish protection film applied, which should be removed before assembly.
 
 You need:
 * 48x MX Switches
