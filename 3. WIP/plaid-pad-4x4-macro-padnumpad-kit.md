@@ -12,7 +12,7 @@ Like the Plaid Keyboard it features only through hole soldering components but c
 * Optional OLED and rotary encoder support
 * Two designs: Black/Gold/Brass or White/Silver available
 
-**Note**: The OLED screen is fully optional and not included in the kit. The rotary encoders can either be positioned in the top row or the right column.
+**Note**: The OLED screen is fully optional and not included in the kit. The rotary encoders are fully optional and not incluided in the kit. They can either be positioned in the top row or the right column.
 
 ## Kit Includes:
 * Top, mid and bottom PCBs
@@ -42,6 +42,9 @@ You optionally need:
 * [qmk Keymaps](https://github.com/qmk/qmk_firmware/tree/master/keyboards/keycapsss/plaid_pad/keymaps)
 * [VIAL Software](https://get.vial.today/)
 * [Changelog](https://github.com/Keycapsss/Plaid-Pad/blob/master/docs/changelog.md)
+
+## Video
+* [Plaid Pad Midi Demo by Michell "Vector" von Manen](https://www.youtube.com/watch?v=PrBaf3t-Rqo)
 
 Photos of the completed kit are for demonstration purposes only.
 Please note that this kit must be assembled (soldering) and does not include switches or keycaps.
