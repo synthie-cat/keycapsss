@@ -5,13 +5,13 @@
 ### DIY-Kits
 | Name 																					| Status |
 |---																					|---|
-| [Pimoroni](https://keycapsss.com/diy-kits/159/pimoroni-keybow-kit-3-key)				| More info requested via discord |
+| [Pimoroni](https://keycapsss.com/diy-kits/159/pimoroni-keybow-kit-3-key)				| Skipped |
 | [Reviung41](https://keycapsss.com/diy-kits/140/reviung41-keyboard-kit) 				| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/reviung41-keyboard-kit.md) |
-| [ROMEO 40%](https://keycapsss.com/diy-kits/124/romeo-40-through-hole-keyboard-kit) 	| More info requested via discord  |
+| [ROMEO 40%](https://keycapsss.com/diy-kits/124/romeo-40-through-hole-keyboard-kit) 	| WIP  |
 | [Discipad](https://keycapsss.com/diy-kits/121/discipad-numpad-kit) 					| done |
 | [Plaid-Pad](https://keycapsss.com/diy-kits/104/plaid-pad-4x4-macro-pad/numpad-kit) 	| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/plaid-pad-4x4-macro-padnumpad-kit.md) |
 | [Plaid Gold](https://keycapsss.com/diy-kits/90/plaid-gold-keyboard-kit-usb-c-mx/choc)	| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/plaid-gold-keyboard-kit-usb-c-mxchoc.md) |
-| [2% Milk](https://keycapsss.com/diy-kits/88/2-milk-2-key-macro-pad) 					| More info requested via discord  |
+| [2% Milk](https://keycapsss.com/diy-kits/88/2-milk-2-key-macro-pad) 					| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/2-milk-2-key-macro-pad.md) |
 | [Gherkin](https://keycapsss.com/diy-kits/78/gherkin-kit-30-mechanical-keyboard) 		| More info requested via discord  |
 | [Plaid](https://keycapsss.com/diy-kits/70/plaid-keyboard-kit)							| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/plaid-keyboard-kit.md) |
 
