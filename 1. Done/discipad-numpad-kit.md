@@ -17,8 +17,9 @@ The MCU comes preflashed with VIA firmware which allows for full configuration w
 * Mid and bottom pcb (black/gold)
 * Top plate to support 3Pin switches
 * 3mm clear acrylic guard plate
-* Solder parts with pre-flashed Atmega328P (Bootloader & VIA Firmware)
+* Solder parts
 * Spacer and screws 
+* Pre-flashed Atmega328P (Bootloader & VIA Firmware)
 * Self adhesive rubber feet
 
 *Note:* For transport the acryl guard plate has a bluish protection film applied, which should be removed before assembly.
