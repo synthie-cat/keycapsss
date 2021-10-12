@@ -28,7 +28,7 @@ You need:
 * Keycaps
 * USB Cable
 * T6 Torx Screwdriver
-* Soldering Iron
+* Soldering equipment
 
 You optionally need:
 * 2U Stabilizer

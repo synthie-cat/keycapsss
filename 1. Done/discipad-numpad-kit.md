@@ -29,7 +29,7 @@ You need:
 * Keycaps
 * USB-C cable
 * T6 Torx screwdriver
-* Soldering iron
+* Soldering equipment
 
 **Important**: The USB-C can be difficult to solder properly without using flux. If you want me to do it for you add the [USB-C Soldering Service](https://keycapsss.com/new/123/solder-service-for-usb-c-connector?c=18) 
 

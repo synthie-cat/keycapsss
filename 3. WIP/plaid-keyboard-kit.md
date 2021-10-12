@@ -24,7 +24,7 @@ You need:
 * Mini USB Cable
 * Keycaps
 * T6 Torx Screwdriver
-* Soldering Iron
+* Soldering equipment
 
 
 **Important**: Extra Services
