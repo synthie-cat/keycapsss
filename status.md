@@ -23,7 +23,7 @@
 | [Kimiko](https://keycapsss.com/keyboard-parts/pcbs/139/kimiko-split-keyboard-pcb?c=14) | Not Started |
 | [Amoeba](https://keycapsss.com/keyboard-parts/pcbs/87/amoeba-single-switch-pcb-1u/2u?c=14) | Not Started |
 | [Alpha](https://keycapsss.com/keyboard-parts/pcbs/84/alpha-pcb-28-key-semi-ortholinear-mechanical-keyboard?c=14) | Not Started |
-| [DZ60RGB](https://keycapsss.com/keyboard-parts/pcbs/21/dz60rgb-ansi-v2-60-mechanical-keyboard-pcb-usb-c-hot-swap?c=14) | 0 ]
+| [DZ60RGB](https://keycapsss.com/keyboard-parts/pcbs/21/dz60rgb-ansi-v2-60-mechanical-keyboard-pcb-usb-c-hot-swap?c=14) | Not Started |
 | [Lily58L](https://keycapsss.com/keyboard-parts/pcbs/71/lily58l-split-keyboard-pcb?c=14) | Not Started |
 | [ErgoDash](https://keycapsss.com/keyboard-parts/pcbs/63/ergodash-split-keyboard-pcb?c=14] | Not Started |
 | [CRKBD](https://keycapsss.com/keyboard-parts/pcbs/53/crkbd-split-keyboard-pcb-corne-helidox?c=14) | Not Started |
