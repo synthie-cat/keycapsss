@@ -7,3 +7,5 @@
 - Template: Enthält die Textstuktur als template
 
 Dateinamen sind ab jetzt immer den URL stub; Link zum derzeitigen Produkt auf der Seite ist als erster Textpunkt enthalten.
+
+Updates findest du in der [status.md](https://github.com/aruffj/keycapsss/blob/main/status.md).
