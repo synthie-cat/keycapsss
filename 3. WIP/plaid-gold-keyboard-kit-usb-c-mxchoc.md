@@ -1,14 +1,15 @@
-Shoplink: https://keycapsss.com/diy-kits/70/plaid-keyboard-kit
+Shoplink: https://keycapsss.com/diy-kits/90/plaid-gold-keyboard-kit-usb-c-mx/choc
 
 With most modern kits its hard to say what it takes to get a beautiful, working mechanical keyboard. But the Plaid - designed by [Takuya Urakawa](https://twitter.com/hsgw) - is a feature complete ortholinear 40% mechanical keyboard that has nothing to hide.
 
-The Plaid is a fun project that will reward you with a great looking and working mechanical keyboard which is super easy to build even as a first soldering project. Creating your own keyboard was never more accessible: The Plaid kit features only easy-to-solder through hole components but is still fully equiped with everything you need to use it on a daily basis.
+Unlike the original Plaid Kit the Plaid Gold Kit offers additional switch options as well as an updated USB-C connection while maintaining the accessibility of the build. It features only easy-to-solder through hole components but is still fully equiped with everything you need to use it on a daily basis. If you need an additional macropad the Plaid pad will be the perfect companion. 
 
 ## Product features:
 * Through-hole components
 * 4x12 ortholinear layout
-* MX Style 5- or 3-pin switches (3-pin require a plate mount)
+* MX Style (3 or 5 pin) or Choc switches
 * QMK and VIA compatible Microcontroller Unit (ATMEGA328P)
+* USB-C connectivity 
 
 
 ## Kit Includes:
@@ -17,11 +18,14 @@ The Plaid is a fun project that will reward you with a great looking and working
 * Transparent acrylic guard plate
 * Brass spacers and screws
 
-*Note:* For transport the acryl guard plate has a bluish protection film applied, which should be removed before assembly.
+*Note:* 
+* For transport the acryl guard plate has a bluish protection film applied, which should be removed before assembly.
+* The USB-C can be difficult to solder properly without using flux. If you want me to do it for you add the [USB-C Soldering Service](https://keycapsss.com/new/123/solder-service-for-usb-c-connector?c=18) 
+
 
 You need:
-* 48x MX Switches
-* Mini USB Cable
+* 48x MX or Choc switches
+* USB-C cable
 * Keycaps
 * T6 Torx Screwdriver
 * Soldering Iron
