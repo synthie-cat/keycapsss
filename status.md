@@ -1,6 +1,7 @@
 # Status overview
 
-12.10.: Updated Reviung41, Plaid-Pad, Plaid Gold, Plaid
+13.10.: 
+12.10.: Updated Reviung41, Plaid-Pad, Plaid Gold, Plaid, Milk 2%
 
 ### DIY-Kits
 | Name 																					| Status |
@@ -12,7 +13,7 @@
 | [Plaid-Pad](https://keycapsss.com/diy-kits/104/plaid-pad-4x4-macro-pad/numpad-kit) 	| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/plaid-pad-4x4-macro-padnumpad-kit.md) |
 | [Plaid Gold](https://keycapsss.com/diy-kits/90/plaid-gold-keyboard-kit-usb-c-mx/choc)	| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/plaid-gold-keyboard-kit-usb-c-mxchoc.md) |
 | [2% Milk](https://keycapsss.com/diy-kits/88/2-milk-2-key-macro-pad) 					| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/2-milk-2-key-macro-pad.md) |
-| [Gherkin](https://keycapsss.com/diy-kits/78/gherkin-kit-30-mechanical-keyboard) 		| More info requested via discord  |
+| [Gherkin](https://keycapsss.com/diy-kits/78/gherkin-kit-30-mechanical-keyboard) 		|  [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/gherkin-kit-30-mechanical-keyboard.md) |
 | [Plaid](https://keycapsss.com/diy-kits/70/plaid-keyboard-kit)							| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/plaid-keyboard-kit.md) |
 
 ### PCBs

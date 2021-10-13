@@ -17,6 +17,7 @@ Unlike the original Plaid Kit the Plaid Gold Kit offers additional switch option
 * All required solder components
 * Transparent acrylic guard plate
 * Brass spacers and screws
+* Self adhesive rubber feet
 
 *Note:* 
 * For transport the acryl guard plate has a bluish protection film applied, which should be removed before assembly.
@@ -28,7 +29,7 @@ You need:
 * USB-C cable
 * Keycaps
 * T6 Torx Screwdriver
-* Soldering Iron
+* Soldering equipment
 
 
 **Important**: Extra Services
