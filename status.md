@@ -1,6 +1,6 @@
 # Status overview
 
-13.10.: 
+13.10.: Gherkin, ROMEO
 12.10.: Updated Reviung41, Plaid-Pad, Plaid Gold, Plaid, Milk 2%
 
 ### DIY-Kits
