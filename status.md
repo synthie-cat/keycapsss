@@ -8,7 +8,7 @@
 |---																					|---|
 | [Pimoroni](https://keycapsss.com/diy-kits/159/pimoroni-keybow-kit-3-key)				| Skipped |
 | [Reviung41](https://keycapsss.com/diy-kits/140/reviung41-keyboard-kit) 				| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/reviung41-keyboard-kit.md) |
-| [ROMEO 40%](https://keycapsss.com/diy-kits/124/romeo-40-through-hole-keyboard-kit) 	| WIP  |
+| [ROMEO 40%](https://keycapsss.com/diy-kits/124/romeo-40-through-hole-keyboard-kit) 	| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/romeo-40-through-hole-keyboard-kit.md)  |
 | [Discipad](https://keycapsss.com/diy-kits/121/discipad-numpad-kit) 					| done |
 | [Plaid-Pad](https://keycapsss.com/diy-kits/104/plaid-pad-4x4-macro-pad/numpad-kit) 	| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/plaid-pad-4x4-macro-padnumpad-kit.md) |
 | [Plaid Gold](https://keycapsss.com/diy-kits/90/plaid-gold-keyboard-kit-usb-c-mx/choc)	| [Check](https://github.com/aruffj/keycapsss/blob/main/3.%20WIP/plaid-gold-keyboard-kit-usb-c-mxchoc.md) |

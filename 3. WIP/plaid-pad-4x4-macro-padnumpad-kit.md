@@ -22,7 +22,7 @@ Like the Plaid Keyboard it features only through hole soldering components but c
 * Self adhesive rubber feet
 
 You need:
-* 16x switches (3 or 5 pin)
+* 16x MX switches (3 or 5 pin)
 * Keycaps
 * USB-C cable
 * T6 Torx screwdriver (White variant) / Slotted screwdriver (black variant)
